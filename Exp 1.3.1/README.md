@@ -1,6 +1,7 @@
 # CC-2-exp5 (24BDA70041)
 ## Problem Statement:232 Implement Queue using Stacks
 class MyQueue:
+
     def __init__(self):
         self.stack1 = []
         self.stack2 = []
