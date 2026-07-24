@@ -1,6 +1,7 @@
 # CC-2-exp6 (24BDA70041)
 ## Problem Statement:84.Largest Rectangle in Histogram
 class Solution:
+
     def largestRectangleArea(self, heights):
         stack = []
         maxArea = 0
