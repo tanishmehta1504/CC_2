@@ -1,4 +1,4 @@
-# CC-2-exp13 (24BDA70041)
+# CC-2-exp14 (24BDA70041)
 ## Problem Statement:287. Find the Duplicate Number
 class Solution:
 
