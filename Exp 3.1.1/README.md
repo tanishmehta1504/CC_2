@@ -1,4 +1,4 @@
-# CC-2-exp14 (24BDA70041)
+# CC-2-exp15 (24BDA70041)
 ## Problem Statement:70. Climbing Stairs
 class Solution:
 
